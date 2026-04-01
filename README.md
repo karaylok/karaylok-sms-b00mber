@@ -1,2 +1,2 @@
 # karaylok-sms-b00mber
-Karaylok SmS Boomber
+developed by, @karaylok
